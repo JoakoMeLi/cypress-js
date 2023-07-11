@@ -1,0 +1,4 @@
+# .lintstagedrc.yaml
+linters:
+  '**/*.js':
+    - eslint --fix
